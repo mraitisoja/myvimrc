@@ -1,4 +1,2 @@
-myvimrc
-=======
-
-vim rc to use with my vim instances
+# My vimrc file
+## Basic settings
